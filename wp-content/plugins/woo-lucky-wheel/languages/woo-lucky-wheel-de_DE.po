@@ -1,0 +1,1247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Lucky Wheel Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-16 04:47+0000\n"
+"PO-Revision-Date: 2019-08-16 04:48+0000\n"
+"Language-Team: German\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.3-alpha-45813\n"
+"Last-Translator: kim <kim@villatheme.com>\n"
+"Language: de_DE"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:57
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:74
+msgctxt "Admin menu"
+msgid "Emails"
+msgstr "E-Mails"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:75
+msgctxt "Add new on Admin bar"
+msgid "Emails"
+msgstr "E-Mails"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:76
+msgid "View Email"
+msgstr "E-Mail ansehen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:77
+msgid "Email Subscribe"
+msgstr "E-Mail-Abonnement"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:78
+msgid "Search Email"
+msgstr "E-Mails suchen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:79
+msgid "Parent Email:"
+msgstr "Eltern-E-Mail:"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:80
+msgid "No Email found."
+msgstr "Keine E-Mail gefunden."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:81
+msgid "No Email found in Trash."
+msgstr "Keine E-Mail im Papierkorb gefunden."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:83
+msgid "Lucky Wheel for WooCommerce emails."
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:103
+msgid "Customer name"
+msgstr "Kundenname"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:104
+msgid "Number of spins"
+msgstr "Anzahl der Drehungen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:105
+msgid "Last spin"
+msgstr "Letzter Dreh"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:106
+msgid "Labels"
+msgstr "Beschriftungen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:107
+msgid "Coupons"
+msgstr "Gutscheine"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/woo-lucky-wheel.php:168
+msgid ""
+"Please install and activate WooCommerce to use Lucky Wheel for WooCommerce."
+msgstr ""
+"Bitte installieren und aktivieren Sie WooCommerce, um WooCommerce Lucky "
+"Wheel zu nutzen."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:45
+msgid "Lucky Wheel for WooCommerce"
+msgstr "WooCommerce Glücksrad"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:45
+msgid "WC Lucky Wheel"
+msgstr "WC Glücksrad"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:50
+msgid "Emails"
+msgstr "E-Mails"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:52
+msgid "Report"
+msgstr "Bericht"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:58
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2252
+msgid "System Status"
+msgstr "Systemstatus"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:71
+msgid "Preview emails"
+msgstr "Vorschau von E-Mails"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:156
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1374
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1969
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:40
+msgid "Shop now"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:166
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:47
+msgid "never expires"
+msgstr "verfällt nie"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:444
+msgid "Lucky Wheel for WooCommerce Settings"
+msgstr "Lucky Wheel for WooCommerce Einstellungen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:449
+msgid "General"
+msgstr "Allgemein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:451
+msgid "Pop-up"
+msgstr "Pop-up"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:453
+msgid "Wheel Background"
+msgstr "Rad Hintergrund"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:455
+msgid "Custom Fields"
+msgstr "Benutzerdefinierte Felder"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:457
+msgid "Wheel Settings"
+msgstr "Rad-Einstellungen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:459
+msgid "Inform Result"
+msgstr "Resultat"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:461
+msgid "Unique Coupon"
+msgstr "Einzigartiger Coupon"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:463
+msgid "Email API"
+msgstr "E-Mail-API"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:470
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1737
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:482
+msgid "Enable mobile"
+msgstr "Mobil aktivieren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:494
+msgid "Ajax endpoint"
+msgstr "Ajax-Endpunkt"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:501
+msgid "Ajax"
+msgstr "Ajax"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:508
+msgid "REST API"
+msgstr "WC-REST-API"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:515
+msgid "Times spinning per email"
+msgstr "Zeitdauer für das Drehen per E-Mail"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:524
+msgid "Delay between each spin of an email"
+msgstr "Verzögerung zwischen jedem Dreh einer E-Mail"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:533
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:636
+msgid "Seconds"
+msgstr "Sekunden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:535
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:618
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:637
+msgid "Minutes"
+msgstr "Minuten"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:536
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:619
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:638
+msgid "Hours"
+msgstr "Stunden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:537
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:620
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:639
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1509
+msgid "Days"
+msgstr "Tage"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:550
+msgid "Popup icon position"
+msgstr "Position des Popup-Icon"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:554
+msgid "Top Left"
+msgstr "Oben links"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:555
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:556
+msgid "Middle Left"
+msgstr "Mitte links"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:557
+msgid "Middle Right"
+msgstr "Mitte rechts"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:558
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:559
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:561
+msgid "Position of the popup on screen"
+msgstr "Position des Popups auf dem Bildschirm"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:567
+msgid "Select intent"
+msgstr "Absicht auswählen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:572
+msgid "Popup icon"
+msgstr "Popup-Symbol"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:573
+msgid "Automactically show wheel after initial time"
+msgstr "Automatisches Anzeigen des Rades nach der Startzeit"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:575
+msgid ""
+"Show wheel after users scroll down a specific value - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:577
+msgid ""
+"Show wheel when users move mouse over the top to close browser - Premium "
+"version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:579
+msgid "Random one of these above - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:586
+msgid "Initial time"
+msgstr "Initialzeit"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:591
+msgid "Enter min,max to set random between min and max (seconds)."
+msgstr ""
+"Geben Sie min,max ein, um den Zufallswert zwischen min und max (Sekunden) "
+"einzustellen."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:597
+msgid "Hide popup icon"
+msgstr "Popup-Symbol ausblenden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:609
+msgid "If customers close and not spin, show popup again after"
+msgstr ""
+"Wenn Kunden schließen und nicht drehen, zeigen Sie das Popup-Fenster erneut "
+"an"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:627
+msgid "When finishing a spin, show popup again after"
+msgstr ""
+"Wenn Sie einen Spin beenden, zeigen Sie das Popup-Fenster erneut an, nachdem "
+"Sie"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:645
+msgid "Show only on Homepage"
+msgstr "Nur auf der Homepage anzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:657
+msgid "Show only on Blog page"
+msgstr "Nur auf der Blog-Seite anzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:670
+msgid "Show only on Shop page"
+msgstr "Nur auf der Shop-Seite anzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:682
+msgid "Conditional tags"
+msgstr "Bedingte Tags"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:686
+msgid "Ex: !is_page(array(123,41,20))"
+msgstr "Beispiel: !is_page(array(123,41,20))"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:691
+msgid ""
+"Let you control on which pages Lucky Wheel for Woocommerce appears using "
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:692
+msgid "WP's conditional tags"
+msgstr "WP's bedingte Tags"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:695
+msgid ""
+"\"Home page\", \"Blog page\" and \"Shop page\" options above must be "
+"disabled to run these conditional tags."
+msgstr ""
+"\"Die obigen Optionen \"Startseite\", \"Blog-Seite\" und \"Shop-Seite\" "
+"müssen deaktiviert sein, um diese bedingten Tags auszuführen."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:697
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:700
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:703
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:706
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:709
+msgid "Use "
+msgstr "Benutzen "
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:698
+msgid " to show only on cart page"
+msgstr " nur auf der Cart-Seite anzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:701
+msgid " to show only on checkout page"
+msgstr " nur auf der Checkout-Seite anzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:704
+msgid "to show only on WooCommerce category page"
+msgstr "um nur auf der WooCommerce-Kategorienseite anzuzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:707
+msgid " to show only on WooCommerce shop page"
+msgstr " nur auf der WooCommerce Shop-Seite zu zeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:710
+msgid " to show only on WooCommerce single product page"
+msgstr " nur auf der WooCommerce Single Product Page anzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:713
+msgid ""
+"Combining 2 or more conditionals using || to show wheel if 1 of the "
+"conditionals matched. e.g use "
+msgstr ""
+"Kombinieren von 2 oder mehr Konditionals mit ||, um das Rad anzuzeigen, wenn "
+"1 der Konditionals übereinstimmt. z.B. Verwendung von "
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:715
+msgid " to show only on cart page and checkout page"
+msgstr " nur auf Cart-Seite und Checkout-Seite anzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:718
+msgid ""
+"Use exclamation mark(!) before a conditional to hide wheel if the "
+"conditional matched. e.g use "
+msgstr ""
+"Verwenden Sie das Ausrufezeichen(!) vor einem bedingten Rad, um das Rad zu "
+"verstecken, wenn das bedingte Rad übereinstimmt. z.B. verwenden Sie "
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:719
+msgid " to hide wheel on homepage"
+msgstr " um das Rad auf der Homepage auszublenden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:732
+msgid "Background image"
+msgstr "Hintergrundbild"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:745
+msgid "Remove"
+msgstr "Entfernen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:750
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:757
+msgid "Add Image"
+msgstr "Bild hinzufügen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:765
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:780
+msgid "Background effect"
+msgstr "Hintergrundeffekt"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:784
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:974
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:983
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:992
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1043
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1069
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1078
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1088
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1102
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1157
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1167
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1394
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1404
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1415
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1424
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1433
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1469
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1790
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1799
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1808
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1817
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1830
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1839
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1848
+msgid "Upgrade This Feature"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:789
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:804
+msgid "Wheel description"
+msgstr "Rad-Beschreibung"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:815
+msgid "Button spin"
+msgstr "Button drehen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:826
+msgid "Button spin color"
+msgstr "Button Dreh Farbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:841
+msgid "Button spin background color"
+msgstr "Button drehen Hintergrundfarbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:858
+msgid "Show text option to not display wheel again"
+msgstr "Textoption anzeigen, um das Rad nicht mehr anzuzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:870
+msgid "Select font"
+msgstr "Schriftart wählen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:886
+msgid "GDPR checkbox"
+msgstr "Kontrollkästchen GDPR"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:899
+msgid "GDPR message"
+msgstr "GDPR-Nachricht"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:910
+msgid "Custom css"
+msgstr "Benutzerdefiniertes CSS"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:925
+msgid "Enable field name"
+msgstr "Feldname aktivieren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:939
+msgid "Enable field name on mobile"
+msgstr "Feldname auf dem Handy aktivieren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:953
+msgid "Field name is required"
+msgstr "Feldname ist erforderlich"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:970
+msgid "Enable field mobile"
+msgstr "Feld Mobile aktivieren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:979
+msgid "Enable field mobile on mobile"
+msgstr "Aktivieren Sie das mobile Feld auf dem Handy"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:988
+msgid "Field mobile is required"
+msgstr "Feldmobilität ist erforderlich"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:999
+msgid "Preview Wheel"
+msgstr "Vorschau-Rad"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1004
+msgid "Pointer position"
+msgstr "Zeigerposition"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1009
+msgid "Center"
+msgstr "Zentriert"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1011
+msgid "Top - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1013
+msgid "Right - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1015
+msgid "Bottom - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1017
+msgid "Random - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1024
+msgid "Wheel pointer color"
+msgstr "Farbe des Radzeigers"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1039
+msgid "Wheel center background image"
+msgstr "Hintergrundbild der Radmitte"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1050
+msgid "Wheel center color"
+msgstr "Farbe der Radmitte"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1065
+msgid "Wheel border color"
+msgstr "Farbe der Radumrandung"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1074
+msgid "Wheel border dot color"
+msgstr "Radumrandung Punktfarbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1084
+msgid "Displayed Currency"
+msgstr "Angezeigte Währung"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1094
+msgid "Wheel spinning duration"
+msgstr "Dauer des Radschleuderns"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1100
+msgid "8 seconds"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1109
+msgid "From 3s to 15s."
+msgstr "Von 3s bis 15s."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1114
+msgid "Wheel speed"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1128
+#, php-format
+msgid "%s - Premium version only"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1139
+msgid "Show full wheel"
+msgstr "Vollrad anzeigen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1146
+msgid "Make all wheel slices visible on desktop"
+msgstr "Alle Radscheiben auf dem Desktop sichtbar machen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1152
+msgid "Adjust font size of text on the wheel by(%)"
+msgstr "Anpassen der Schriftgröße des Textes auf dem Rad um(%)"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1155
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1165
+msgid "100"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1162
+msgid "Adjust wheel size by(%)"
+msgstr "Radgröße um(%) anpassen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1172
+msgid "Slices text color"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1187
+msgid "Index"
+msgstr "Index"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1188
+msgid "Coupon Type"
+msgstr "Gutscheintyp"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1189
+msgid "Label"
+msgstr "Bezeichnung"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1190
+msgid "Value"
+msgstr ""
+"Bitte geben Sie einen gültigen Wert. Die beiden nächstgelegenen gültige "
+"Werte sind {} und {}"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1191
+msgid "Probability(%)"
+msgstr "Wahrscheinlichkeit(%)"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1192
+msgid "Color"
+msgstr "Farbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1196
+msgid ""
+"Use {coupon_amount} for WooCommerce coupon type to refer to the amount of "
+"that coupon. e.g: Coupon type is percentage discount, coupon value is 10 "
+"then {coupon_amount} will become 10% when printing out on the wheel."
+msgstr ""
+"Verwenden Sie {coupon_amount} für WooCommerce Coupontyp, um sich auf den "
+"Betrag dieses Coupons zu beziehen. z.B: Der Coupontyp ist prozentualer "
+"Rabatt, der Couponwert ist 10, dann wird {coupon_amount} beim Ausdrucken auf "
+"dem Rad zu 10%."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1208
+msgid "Non"
+msgstr "Nicht"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1209
+msgid "Existing coupon"
+msgstr "Bestehender Gutschein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1210
+msgid "Percentage discount"
+msgstr "Prozentualer Rabatt"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1211
+msgid "Fixed product discount"
+msgstr "Filtern nach Produktrabatt"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1212
+msgid "Fixed cart discount"
+msgstr "Warenkorbrabatt"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1213
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1255
+msgid "Enter Code"
+msgstr "Code eingeben"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1287
+msgid "Slices positions are sortable by drag and drop."
+msgstr "Slices-Positionen können per Drag & Drop sortiert werden."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1291
+msgid "*The total Probability: "
+msgstr "*Die gesamte Wahrscheinlichkeit: "
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1301
+msgid "Auto Color"
+msgstr "Farbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1314
+msgid "Automatically hide wheel after finishing spinning"
+msgstr "Automatisches Ausblenden der Scheibe nach dem Schleudern"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1322
+msgid "seconds"
+msgstr "Sekunden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1324
+msgid "Left 0 to disable this feature"
+msgstr "Links 0, um diese Funktion zu deaktivieren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1331
+msgid "Email subject"
+msgstr "E-Mail Betreff"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1336
+msgid ""
+"The subject of emails sending to customers which include discount coupon "
+"code."
+msgstr ""
+"Der Betreff der E-Mails, die an Kunden gesendet werden und die den "
+"Rabattcouponcode enthalten."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1338
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1350
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1370
+msgid "Coupon label/custom label that customers win"
+msgstr "Coupon-Label/kundenspezifisches Label, das Kunden gewinnen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1343
+msgid "Email heading"
+msgstr "Email Heading"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1348
+msgid ""
+"The heading of emails sending to customers which include discount coupon "
+"code."
+msgstr ""
+"Die Überschrift der E-Mails, die an Kunden gesendet werden und die den "
+"Rabattcouponcode enthalten."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1355
+msgid "Email content"
+msgstr "E-Mail-Inhalt"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1356
+msgid ""
+"The content of email sending to customers to inform them the coupon code "
+"they receive"
+msgstr ""
+"Der Inhalt der E-Mail, die an Kunden gesendet wird, um ihnen den "
+"Gutscheincode mitzuteilen, den sie erhalten"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1366
+msgid "Customer's name."
+msgstr "Kundenname."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1368
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1459
+msgid "Coupon code/custom value will be sent to customer."
+msgstr "Gutscheincode/kundenspezifischer Wert wird an den Kunden gesendet."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1372
+msgid "Expiry date of the coupon."
+msgstr "Verfallsdatum des Coupons."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1380
+msgid "Button \"Shop now\" URL"
+msgstr "Button \"Jetzt kaufen\" URL"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1389
+msgid "Suggested products"
+msgstr "Empfohlene Produkte"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1395
+msgid ""
+"These products will be added at the end of email content with product image "
+"thumbnail, product title, product price and a button linked to product page "
+"which is design the same as button {shop_now}"
+msgstr ""
+"Diese Produkte werden am Ende des E-Mail-Inhalts mit dem Miniaturbild des "
+"Produktbildes, dem Produkttitel, dem Produktpreis und einer Schaltfläche, "
+"die mit der Produktseite verknüpft ist, hinzugefügt, die das gleiche Design "
+"hat wie die Schaltfläche {shop_now}."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1400
+msgid "Button \"Shop now\" title"
+msgstr "Button \"Jetzt kaufen\" Titel"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1411
+msgid "Button \"Shop now\" color"
+msgstr "Button \"Jetzt kaufen\" Farbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1420
+msgid "Button \"Shop now\" background color"
+msgstr "Button \"Jetzt kaufen\" Hintergrundfarbe"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1429
+msgid "Button \"Shop now\" font size(px)"
+msgstr "Button \"Jetzt kaufen\" Schriftgröße(px)"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1439
+msgid "Frontend Message if win"
+msgstr "Frontend-Meldung bei Gewinn"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1451
+msgid "Label of coupon that customers win"
+msgstr "Etikett des Coupons, das die Kunden gewinnen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1453
+msgid "\"Checkout\" with link to checkout page"
+msgstr "\"Kasse\" mit Link zur Kasse-Seite"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1455
+msgid "Customers'name if they enter"
+msgstr "Kundenname, wenn sie ihn eingeben"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1457
+msgid "Email that customers enter to spin"
+msgstr "E-Mail, die Kunden eingeben, um zu drehen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1465
+msgid "Winning effect"
+msgstr "Gewinneffekt"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1475
+msgid "Frontend message if lost"
+msgstr "Frontend-Meldung falls verloren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1490
+msgid "Allow free shipping"
+msgstr "Kostenlosen Versand erlauben"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1495
+msgid "Check this box if the coupon grants free shipping. A "
+msgstr ""
+"Aktivieren Sie dieses Kontrollkästchen, wenn der Gutschein einen kostenlosen "
+"Versand ermöglicht. A "
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1497
+msgid "free shipping method"
+msgstr "kostenlose Versandart"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1497
+msgid ""
+" must be enabled in your shipping zone and be set to require \"a valid free "
+"shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+" muss in Ihrer Versandhandelszone aktiviert sein und so eingestellt sein, "
+"dass \"ein gültiger kostenloser Versandschein\" erforderlich ist (siehe "
+"Einstellung \"Kostenloser Versand\")."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1503
+msgid "Time to live"
+msgstr "Lebensdauer"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1511
+msgid "Coupon will expire after x(days) since it's generated and sent"
+msgstr ""
+"Der Gutschein verfällt nach x(Tagen), da er generiert und versendet wurde"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1516
+msgid "Minimum spend"
+msgstr "Mindestbestellwert"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1523
+msgid "No minimum"
+msgstr "Kein Mindestbetrag"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1524
+msgid "The minimum spend to use the coupon."
+msgstr ""
+"Der Mindestbetrag, den Sie für die Verwendung des Coupons ausgeben müssen."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1530
+msgid "Maximum spend"
+msgstr "Maximalbestellwert"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1537
+msgid "No maximum"
+msgstr "Kein Maximalbetrag"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1538
+msgid "The maximum spend to use the coupon."
+msgstr "Die maximalen Ausgaben für die Verwendung des Coupons."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1542
+msgid "Individual use only"
+msgstr "Nur einzeln anwendbar"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1547
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Aktivieren, wenn dieser Gutschein nicht zusammen mit anderen Gutscheinen "
+"verwendet werden darf."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1551
+msgid "Exclude sale items"
+msgstr "Produkte, die im Angebot sind, ausschließen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1557
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are items in the cart that are not on sale."
+msgstr ""
+"Aktivieren, wenn der Gutschein nicht für Produkte mit Angebotspreis gelten "
+"soll. Pro-Produkt-Gutscheine sind nur dann anwendbar, wenn sich das Produkt "
+"nicht im Angebot befindet. Und Pro-Warenkorb-Gutscheine sind nur anwendbar, "
+"wenn der Warenkorb keine Produkte enthält, für die ein Angebotspreis besteht."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1562
+msgid "Include Products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1568
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1596
+msgid "Please Fill In Your Product Title"
+msgstr "Bitte geben Sie Ihren Produktnamen ein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1584
+msgid ""
+"Products that the coupon will be applied to, or that need to be in the cart "
+"in order for the \"Fixed cart discount\" to be applied"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1589
+msgid "Exclude Products"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1612
+msgid ""
+"Products that the coupon will not be applied to, or that cannot be in the "
+"cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1617
+msgid "Include categories"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1624
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1652
+msgid "Please enter categories name"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1640
+msgid ""
+"Product categories that the coupon will be applied to, or that need to be in "
+"the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1645
+msgid "Exclude categories"
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1668
+msgid ""
+"Product categories that the coupon will not be applied to, or that cannot be "
+"in the cart in order for the \"Fixed cart discount\" to be applied."
+msgstr ""
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1674
+msgid "Usage limit per coupon"
+msgstr "Anwendungsbeschränkung pro Gutschein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1682
+msgid "How many times this coupon can be used before it is void."
+msgstr "Wie oft dieser Gutschein angewendet werden kann, bevor er abläuft."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1687
+msgid "Limit usage to X items"
+msgstr "Nutzung auf X Produkte beschränken"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1694
+msgid "Apply To All Qualifying Items In Cart"
+msgstr "Auf alle zutreffenden Produkte im Warenkorb anwenden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1696
+msgid ""
+"The maximum number of individual items this coupon can apply to when using "
+"product discount."
+msgstr ""
+"Die maximale Anzahl der einzelnen Artikel, für die dieser Gutschein bei der "
+"Nutzung von Produktrabatten gelten kann."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1701
+msgid "Usage limit per user"
+msgstr "Anwendungsbeschränkung pro Benutzer"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1708
+msgid "Unlimited Usage"
+msgstr "Unbegrenzte Nutzung"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1710
+msgid "How many times this coupon can be used by an individual user."
+msgstr ""
+"Wie oft kann dieser Gutschein von einem einzelnen Benutzer verwendet werden."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1715
+msgid "Coupon code prefix"
+msgstr "Coupon Code Prefix"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1731
+msgid "Enable Mailchimp"
+msgstr "Mailchimp aktivieren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1739
+msgid "Turn on to use MailChimp system"
+msgstr "Einschalten zur Verwendung des MailChimp-Systems"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1745
+msgid "API key"
+msgstr "API Key"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1751
+msgid ""
+" The API key for connecting with your MailChimp account. Get your API key "
+msgstr ""
+" Die API-Taste für die Verbindung mit Ihrem MailChimp-Konto. Holen Sie sich "
+"Ihren API-Schlüssel "
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1752
+msgid "here"
+msgstr "hier"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1758
+msgid "Mailchimp lists"
+msgstr "Mailchimp-Listen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1786
+msgid "Active Campaign"
+msgstr "Aktive Kampagne"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1795
+msgid "Active Campaign API Key"
+msgstr "Aktiver Kampagnen-API-Schlüssel"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1804
+msgid "Active Campaign API URL"
+msgstr "API-URL der aktiven Kampagne"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1813
+msgid "Active Campaign list"
+msgstr "Liste der aktiven Kampagnen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1826
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1835
+msgid "SendGrid API Key"
+msgstr "SendGrid API Schlüssel"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1844
+msgid "Sendgrid lists"
+msgstr "Sendungsrasterlisten"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:1856
+msgid "Save"
+msgstr "Speichern"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2079
+msgid "Your settings have been saved!"
+msgstr "Ihre Einstellungen wurden gespeichert!"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2217
+msgid "Lucky Wheel Report"
+msgstr "Glücksrad-Bericht"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2222
+msgid "Total Spins"
+msgstr "Gesamtzahl der Spins"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2223
+msgid "Emails Subcribed"
+msgstr "Abonnierte E-Mails"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2224
+msgid "Coupon Given"
+msgstr "Gutschein vergeben"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2234
+msgid "From"
+msgstr "Von"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2236
+msgid "To"
+msgstr "Bis"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2243
+msgid "Export Emails"
+msgstr "E-Mails exportieren"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2256
+msgid "file_get_contents"
+msgstr "file_get_contents"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2268
+msgid "Allow URL Open"
+msgstr "URL öffnen erlauben"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2410
+msgid "OK"
+msgstr "OK"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/admin/admin.php:2411
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:213
+msgid "You have to wait until your next spin."
+msgstr "Du musst bis zu deinem nächsten Spin warten."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:216
+#, php-format
+msgid "You can only spin 1 time every %s seconds"
+msgstr "Du kannst nur 1 Mal alle %s Sekunden drehen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:219
+#, php-format
+msgid "You can only spin 1 time every %s minutes"
+msgstr "Du kannst nur 1 Mal alle %s Minuten drehen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:222
+#, php-format
+msgid "You can only spin 1 time every %s hours"
+msgstr "Du kannst nur 1 Mal alle %s Stunden drehen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:225
+#, php-format
+msgid "You can only spin 1 time every %s days"
+msgstr "Du kannst nur 1 Mal alle %s Tage drehen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:247
+msgid "Please agree with our term and condition."
+msgstr "Bitte stimmen Sie unseren Bedingungen zu."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:263
+msgid "*Please enter your email"
+msgstr "*Bitte geben Sie Ihre E-Mail-Adresse ein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:264
+msgid "*Please enter a valid email address"
+msgstr "*Bitte geben Sie eine gültige E-Mail-Adresse ein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:269
+msgid "Name is required!"
+msgstr "Der Name wird benötigt!"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:333
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:478
+msgid "Please enter your name"
+msgstr "Bitte geben Sie Ihren Namen ein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:343
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:488
+msgid "Please enter your mobile"
+msgstr "Bitte gib dein Handynummer ein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:352
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:497
+msgid "Please enter your email"
+msgstr "Bitte geben Sie Ihre E-Mail-Adresse ein"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:359
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:504
+msgid "Try Your Lucky"
+msgstr "Probiere Dein Glück aus"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:367
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:512
+msgid "I agree with the term and condition"
+msgstr "Ich akzeptiere die Bedingungen und Konditionen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:375
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:520
+msgid "Never"
+msgstr "Niemals"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:378
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:523
+msgid "Remind later"
+msgstr "Später erinnern"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:381
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:526
+msgid "No thanks"
+msgstr "Nein danke"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:611
+msgid "Check security"
+msgstr "Sicherheit prüfen"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:624
+msgid "Email is invalid"
+msgstr "Ungültige E-Mail Adresse"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:632
+msgid "Name is required"
+msgstr "Name ist erforderlich"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:657
+msgid "OOPS! You are not lucky today. Sorry."
+msgstr "OOPS! Du hast heute leider kein Glück. Tut uns leid."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:682
+msgid ""
+"Sorry, this email is marked as spam now. Please enter another email to "
+"continue."
+msgstr ""
+"Sorry, diese E-Mail ist als Spam markiert. Bitte geben Sie eine andere E-"
+"Mail ein, um fortzufahren."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:713
+msgid "This email has reach the maximum spins."
+msgstr "Diese E-Mail hat die maximalen Drehungen erreicht."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:721
+msgid " seconds"
+msgstr " Sekunden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:723
+#, php-format
+msgid "%s days %s hours %s minutes %s seconds"
+msgstr "%s Tage %s Stunden %s Minuten %s Sekunden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:725
+#, php-format
+msgid "%s hours %s minutes %s seconds"
+msgstr "%s Stunden %s Minuten %s Sekunden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:727
+#, php-format
+msgid "%s minutes %s seconds"
+msgstr "%s Minuten %s Sekunden"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:729
+msgid "You have to wait "
+msgstr "Du musst warten "
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:729
+msgid " to be able to spin again."
+msgstr " damit du wieder drehen kannst."
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:761
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:875
+msgid ""
+"Congrats! You have won a {coupon_label} discount coupon. The coupon was sent "
+"to the email address that you had entered to spin. Thank You!"
+msgstr ""
+"Herzlichen Glückwunsch! Du hast einen {coupon_label} Rabattcoupon gewonnen. "
+"Der Gutschein wurde an die E-Mail-Adresse gesendet, die Sie zum Drehen "
+"eingegeben hatten. Vielen Dank!"
+
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:825
+#: E:/Git/VILLAT~1/FREE-V~1/WOO-LU~1/woo-lucky-wheel/frontend/frontend.php:932
+msgid "Checkout"
+msgstr "Kasse"
+
+#. Description of the plugin
+msgid ""
+"Collect customers emails by letting them play interesting Lucky wheel game "
+"to get lucky discount coupon"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr "VillaThema"
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr "http://villatheme.com"
